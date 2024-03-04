@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/tag/academic/</link>
-      <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/academic/</link>
+      <atom:link href="http://localhost:1313/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/tag/academic/</link>
+      <link>http://localhost:1313/tag/academic/</link>
     </image>
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -89,6 +89,53 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями Git</title>
+      <link>http://localhost:1313/post/post2/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post2/</guid>
+      <description>&lt;h1 id=&#34;о-системах-контроля-версий&#34;&gt;О системах контроля версий&lt;/h1&gt;
+&lt;p&gt;Система контроля версий (СКВ) – это инструмент для отслеживания изменений в файлах и проектах. Она сохраняет историю изменений, позволяет возвращаться к предыдущим версиям, сравнивать изменения и обеспечивает эффективное управление разработкой программного обеспечения или других проектов. СКВ облегчают совместную работу, предотвращают потерю данных и улучшают управление кодом или содержимым проекта.&lt;/p&gt;
+&lt;h2 id=&#34;локальные-системы-контроля-версий&#34;&gt;Локальные системы контроля версий&lt;/h2&gt;
+&lt;p&gt;Локальные системы контроля версий работают на уровне отдельного компьютера и отслеживают изменения в файлах только на этом компьютере. Они создают базу данных снимков файлов, что позволяет пользователям возвращаться к предыдущим версиям. Однако, они не предоставляют средства для совместной работы или хранения истории на удаленных серверах, что делает их менее подходящими для проектов с несколькими участниками. Примеры локальных систем контроля версий включают RCS (Revision Control System) и SVN (Apache Subversion).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/home/evatsoppa/work/blog/content/post/post2/foto.png&#34; alt=&#34;SKV&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что было на этой неделе?</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>&lt;h2 id=&#34;учёба&#34;&gt;Учёба&lt;/h2&gt;
+&lt;p&gt;Неделя была не очень тяжёлой, за исключением лабораторных по архитектуре, в понедельник и во вторник у нас был дистант, в среду я поехала на пары, к счастью, нам отменили самостоятельную по мат анализу, так как нас было мало, в четверг были скучные семинары и пару лекций, в пятницу языки, там все было хорошо, обожаю преподавателя по немецкому языку.&lt;/p&gt;
+&lt;h2 id=&#34;танцы&#34;&gt;Танцы&lt;/h2&gt;
+&lt;p&gt;Во вторник и четверг я ходила на танцы, до которых добиралась по 1,5 часа каждый раз, зато это помогало перезагрузиться мне на неделе и дальше работать.&lt;/p&gt;
+&lt;h2 id=&#34;еда&#34;&gt;Еда&lt;/h2&gt;
+&lt;p&gt;Что касается моего приема пищи, то на этой неделе я ела достаточно много по сравнению с остальными, ибо свободного времени было намного больше и я могла себе что-то вкусное приготовить, так вот 2 раза я готовила себе вкусную пасту(всем советую). Самый простой рецепт - сварить макароны Barilla и добавить к ним моцареллу и помидоры черри и будет шик! Но в основном я ела всякие пельмени, картошку с котлетой. Вообще там всё, как у всех.&lt;/p&gt;
 </description>
     </item>
     
